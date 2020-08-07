@@ -1,0 +1,11 @@
+{
+  "name": "mdm-user-mock",
+  "version": "1.0.0",
+  "description": "A mock db for mdm user api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emeasoba Tochukwu",
+  "license": "ISC"
+}
